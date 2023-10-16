@@ -77,3 +77,35 @@ a {
 img {
   width: 50%
 }
+
+.body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.body-header {
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: bolder;
+  margin: 20px 0;
+}
+
+.subtext-container {
+  display: flex;
+  gap: 45px;
+}
+
+.subtext p {
+  width: 180px;
+  text-align: center;
+}
+
+.body img {
+  border: 5px solid #3882F6;
+  width: 180px;
+  height: 180px;
+  border-radius: 10px;
+}
