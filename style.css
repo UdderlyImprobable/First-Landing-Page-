@@ -14,7 +14,7 @@ a {
   justify-content: center;
   background-color: #1F2937;
   color: white;
-
+  padding-bottom: 60px;
 }
 
 .content {
@@ -30,8 +30,7 @@ a {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  margin-bottom: 40px;
-
+  margin-bottom: 60px;
 }
 
 .logo {
@@ -90,12 +89,13 @@ img {
   font-size: 36px;
   color: #1F2937;
   font-weight: bolder;
-  margin: 20px 0;
+  margin: 50px 0 30px 0;
 }
 
 .subtext-container {
   display: flex;
   gap: 45px;
+  margin-bottom: 80px;
 }
 
 .subtext p {
@@ -114,6 +114,7 @@ img {
   display: flex;
   justify-content: center;
   background-color: #E5E7EB;
+  padding: 50px 0;
 }
 
 .quote-container {
@@ -147,7 +148,7 @@ img {
   justify-content: space-around;
   align-items: center;
   background-color: #3882F6;
-  margin: 70px 0;
+  margin: 85px 0;
   height: 100px;
   width: 70%;
   border-radius: 5px;
