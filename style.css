@@ -109,3 +109,30 @@ img {
   height: 180px;
   border-radius: 10px;
 }
+
+.testimonial {
+  display: flex;
+  justify-content: center;
+  background-color: #E5E7EB;
+}
+
+.quote-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 690px;
+}
+
+.testimonial .quote {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1F2937;
+  margin-bottom: 0;
+}
+
+.quoter {
+  font-weight: bolder;
+  margin-top: 0;
+  align-self: flex-end;
+}
