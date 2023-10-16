@@ -175,3 +175,17 @@ img {
   height: 25px;
   border-radius: 3px;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  height: 50px;
+}
+
+.footer p {
+  font-weight: lighter;
+  font-size: smaller;
+  color: #F9FAF8;
+}
